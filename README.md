@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="./readme-images/project-logo.png" />
+  <img src=".readme-images/project-logo.png" />
 
   <h2 align="center">Avinash PortFollio</h2>
 
@@ -13,8 +13,27 @@
 
 <br />
 
-### Free Demo Screeshots
-
-![Avinash Ghadge Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+##
+![Avinash Ghadge Portfolio Desktop Demo]
 
 This project is **free to use** and does not contains any license.
+
+### Free Demo Screeshots 
+
+
+
+<img align="right" alt="coding" width="400" src="https://github.com/Usernamecopieded/Portfollio_Website/blob/main/Img/Portfollio%2002.png">
+
+
+<img align="right" alt="coding" width="400" src="https://github.com/Usernamecopieded/Portfollio_Website/blob/main/Img/Portfollio%2001.png">
+
+
+
+
+
+<img align="right" alt="coding" width="400" src="https://github.com/Usernamecopieded/Portfollio_Website/blob/main/Img/Portfollio%2004.png">
+
+
+<img align="right" alt="coding" width="400" src="https://github.com/Usernamecopieded/Portfollio_Website/blob/main/Img/Portfollio%2003.png">
+
+
